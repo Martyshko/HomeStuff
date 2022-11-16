@@ -1,0 +1,2 @@
+let hand;
+hand = true;
